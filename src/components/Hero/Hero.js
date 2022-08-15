@@ -18,6 +18,7 @@ const Hero = (props) => (
         My Portfolio
       </SectionTitle>
       <SectionText>
+          Hello, I am Surjo Seth. <br />
           Welcome to my personal portfolio.
       </SectionText>
       <Button onClick={saveFile}>Download my CV</Button>
