@@ -31,6 +31,11 @@ const Header = () =>  (
           <NavLink>About</NavLink>
         </Link>
       </li>
+      <li>
+        <Link href="#accomp">
+          <NavLink>Achievements</NavLink>
+        </Link>
+      </li>
     </Div2>
     <Div3>
       <SocialIcons href="https://github.com/SurjoSeth">
